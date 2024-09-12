@@ -41,25 +41,17 @@
 
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
 
-  <img src=" https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" height="40" width="52" alt="matplotlib logo"  />
+  <img src=" https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" height="50" width="62" alt="matplotlib logo"  />
   <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" height="40" width="52" alt="seaborn logo"  />
  
 
    <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2016.png" height="40" width="52" alt="Power BI logo"  />
- 
-</div>
 
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.jpg" height="40" width="52" alt="Ms excel logo"  />
  
-</div>
-
-</div>
 <img src="https://www.logolynx.com/images/logolynx/86/868ec8c8f17eb70359a9aef60dbf8928.png" height="40" width="52" alt="fedora logo"  />
  
-</div>
 <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" height="40" width="52" alt="ununtu logo"  />
- 
-</div>
  
 </div>
 
