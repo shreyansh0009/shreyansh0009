@@ -37,8 +37,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 
-          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-
             <img src=" https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" height="40" width="52" alt="pandas logo"  />
 
               <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" height="40" width="52" alt="pandas logo"  />
@@ -58,7 +56,11 @@
     
   
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
+
+   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" height="40" width="52" alt="numpy logo"  />
+
+  
 
  
  
