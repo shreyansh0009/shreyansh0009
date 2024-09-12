@@ -31,36 +31,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
-     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" width="52" alt="git logo"  />
-     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="40" width="52" alt="git logo"  />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
+
+          <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
+
+            <img src=" https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" height="40" width="52" alt="pandas logo"  />
+
+              <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" height="40" width="52" alt="pandas logo"  />
+
+               <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2016.png" height="40" width="52" alt="pandas logo"  />
+
+
+           
+            
+
+         
+
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" width="52" alt="unix logo"  /> 
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" width="52" alt="chrome logo"  />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 
-<!--   -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="52" alt="google logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="52" alt="gradle logo"  /> -->
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
-  
+ 
+ 
 
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="40" width="52" alt="unix logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+ 
 </div>
 
 
