@@ -41,7 +41,7 @@
 
    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
 
-  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="50" width="62" alt="matplotlib logo"  />
+  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="40" width="52" alt="matplotlib logo"  />
   <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" height="40" width="52" alt="seaborn logo"  />
  
 
