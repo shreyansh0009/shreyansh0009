@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Saurabh Shreyansh</h1>
 <h2 align="center"><b><b>  A Java Developer </b> </b> </h2>
-<h2 align="center"><b><b>  A Data Analyst </b> </b> </h2>
+<h2 align="center"><b><b>  A Front-End Developer </b> </b> </h2>
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyansh0009?tab=repositories](https://github.com/shreyansh0009?tab=repositories)
 
