@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flask, Firebase**
 
-- 💬 Ask me about **JavaScript, React.js, Python, MySql, MongoDB**
+- 💬 Ask me about **React.js, Flask, Firebase**
 
 - 📫 How to reach me **saurabhsharraf@gmail.com**
 
