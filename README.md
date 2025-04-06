@@ -23,7 +23,7 @@
 ## Tech Stack
 
 - **Frontend:** React.js, HTML, Tailwind CSS, JavaScript
-- **Backend:** Flask & Firebase
+- **Backend:** Node.js
 - **Database:** MongoDB
 - **Version Control:** Git
 - **Tools:** VSCode, Pycharm, XAMPP, MongoDB Compass
