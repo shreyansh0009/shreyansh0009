@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhshreyan1" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhshreyan1?logo=twitter&style=for-the-badge" alt="saurabhshreyan1" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **JavaScript, React.js, Python, MySql, MongoDB**
 
