@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Problem+Solver&center=true&width=380&height=45">
 </div>
-<h4>I'm a passionate **Full Stack Developer**, specializing in building innovative web applications that solve real-world problems.</h4>
+<h3>I'm a passionate Full Stack Developer, specializing in building innovative web applications that solve real-world problems.</h3>
 
 - 🎓 **Pursuing** Bachelor's in Information Technology (IT) - **8.23 CGPA**
 - 💼 **Experience** in Full Stack Development with **YS Financial's**
