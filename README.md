@@ -7,7 +7,6 @@
 
 - 🎓 **Pursuing** Bachelor's in Information Technology (IT) - **8.23 CGPA**
 - 💼 **Experience** in Full Stack Development with **YS Financial's**
-- 🏆 **Open Source Mentor** at GSSoC '24 - **Ranked First**
 - 🎯 **Team Leader - LNMHacks, LNMIIT Jaipur** - **Jan 2023 – Present**
 - 🏅 **Winner** – LNMHacks 6.0, LNMIIT Jaipur - **Real-Time Low Latency Trading Cost Simulator**
 ---
