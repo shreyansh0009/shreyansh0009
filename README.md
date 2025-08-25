@@ -1,37 +1,84 @@
-[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
-<h1 align="center">Hi 👋, I'm Saurabh Shreyansh</h1>
-<h3 align="center">A passionate full-stack developer from Jaipur, Rajasthan, India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/saurabhshreyan1" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhshreyan1?logo=twitter&style=for-the-badge" alt="saurabhshreyan1" /></a> </p>
+<h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Problem+Solver&center=true&width=380&height=45">
+</div>
+<h4>I'm a passionate **Full Stack Developer**, specializing in building innovative web applications that solve real-world problems.</h4>
 
-- 🌱 I’m currently learning **Solidity**
+- 🎓 **Pursuing** Bachelor's in Information Technology (IT) - **8.23 CGPA**
+- 💼 **Experience** in Full Stack Development with **YS Financial's**
+- 🏆 **Open Source Mentor** at GSSoC '24 - **Ranked First**
+- 🎯 **Team Leader - LNMHacks, LNMIIT Jaipur** - **Jan 2023 – Present**
+- 🏅 **Winner** – LNMHacks 6.0, LNMIIT Jaipur - **Real-Time Low Latency Trading Cost Simulator**
+---
 
-- 💬 Ask me about **JavaScript, React.js, Python, MySql, MongoDB**
+## 💼 Professional Experience
 
-- 📫 How to reach me **saurabhsharraf@gmail.com**
+### 🏥 **YS Financial's** - *Front-End Developer Intern*
+*July 2024 - Nov 2024 | Mumbai, Maharastra*
+- 🩺 Developed responsive and accessible UI components using React.js and Tailwind CSS
+- 📈 Boosted portal engagement by **32%** within a month
+- 🧘 Integrated Supabase for authentication and real-time database functionality
 
-- ⚡ Fun fact **A person lost in COSMOS**
+### 🏥 **YS Financial's** - *Full Stack Developer Intern*
+*July 2025 - Present | Mumbai, Maharastra*
+- 🩺 Optimized APIs, reducing latency by **43%**
+- 📈 Designed UI components in Figma, increasing user retention by **13%**
+- 🧘 Enhanced user engagement by **20%** through API improvements
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saurabhshreyan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhshreyan1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyansh0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh0009" height="30" width="40" /></a>
-<a href="https://instagram.com/shreyansh0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyansh0009" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-## Tech Stack
+<div align="center">
 
-- **Frontend:** React.js, HTML, Tailwind CSS, JavaScript
-- **Backend:** Node.js
-- **Database:** MongoDB
-- **Version Control:** Git
-- **Tools:** VSCode, Pycharm, XAMPP, MongoDB Compass
-- **Operating System:** Linux-64(RHEL)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh0009&show_icons=true&locale=en&layout=compact" alt="shreyansh0009" width="492"/></p>
+### Tools & Services
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+- 🌱 I’m currently learning **Solidity** & **Smart Contracts**
+- 🔥 Building scalable web applications with **MERN Stack**
+- 📚 Learning **DevOps** and **Cloud Architecture**
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+**I'm always excited to work on projects that solve real-world problems!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh0009)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saurabhshreyan1)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **⭐ Star my repositories if you find them interesting!**
+  
+  *Let's build the future together* 🚀
+  
+</div>
 
 
