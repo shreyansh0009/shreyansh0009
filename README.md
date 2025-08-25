@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
 <h1 align="center">Hi 👋, I'm Saurabh Shreyansh</h1>
-<h3 align="center">A passionate frontend developer from Jaipur, Rajasthan, India</h3>
+<h3 align="center">A passionate full-stack developer from Jaipur, Rajasthan, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/saurabhshreyan1" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhshreyan1?logo=twitter&style=for-the-badge" alt="saurabhshreyan1" /></a> </p>
