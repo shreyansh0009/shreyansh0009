@@ -13,17 +13,20 @@
 
 ## 💼 Professional Experience
 
+### 🏥 **CRM Landing Pvt. Ltd.** - *Associate Salesforce Developer Intern*
+*Sep 2025 - Present | Ajmer, Rajasthan*
+
+### 🏥 **YS Financial's** - *Full Stack Developer Intern*
+*May 2025 - Aug 2025 | Mumbai, Maharastra*
+- 🩺 Optimized APIs, reducing latency by **43%**
+- 📈 Designed UI components in Figma, increasing user retention by **13%**
+- 🧘 Enhanced user engagement by **20%** through API improvements
+
 ### 🏥 **YS Financial's** - *Front-End Developer Intern*
 *July 2024 - Nov 2024 | Mumbai, Maharastra*
 - 🩺 Developed responsive and accessible UI components using React.js and Tailwind CSS
 - 📈 Boosted portal engagement by **32%** within a month
 - 🧘 Integrated Supabase for authentication and real-time database functionality
-
-### 🏥 **YS Financial's** - *Full Stack Developer Intern*
-*July 2025 - Present | Mumbai, Maharastra*
-- 🩺 Optimized APIs, reducing latency by **43%**
-- 📈 Designed UI components in Figma, increasing user retention by **13%**
-- 🧘 Enhanced user engagement by **20%** through API improvements
 
 ## 🛠️ Tech Stack
 
