@@ -13,7 +13,7 @@
 
 ## 💼 Professional Experience
 
-### 🏥 **CRM Landing Pvt. Ltd.** - *Associate Salesforce Developer Intern*
+### 🏥 **CRM Landing Pvt. Ltd.** - *Software Developer Intern*
 *Sep 2025 - Present | Ajmer, Rajasthan*
 
 ### 🏥 **YS Financial's** - *Full Stack Developer Intern*
