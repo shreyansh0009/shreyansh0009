@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Problem+Solver&center=true&width=380&height=45">
 </div>
-<h3>I'm a passionate Full Stack Developer, specializing in building innovative web applications that solve real-world problems.</h3>
+<h3>I'm a passionate Full Stack & Blockchain Developer, Building scalable digital and decentralized solutions.</h3>
 
 - 🎓 **Pursuing** Bachelor's in Information Technology (IT) - **8.23 CGPA**
 - 💼 **Experience** in Full Stack Development with **YS Financial's**
@@ -45,7 +45,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+### Blockchain Technologies
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity_^0.8.20-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=hardhat&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js_v6-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+
+### Cloud & Storage
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Tools & Services
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -57,7 +70,7 @@
 
 ## 🎯 Current Focus
 - 🌱 I’m currently learning **Solidity** & **Smart Contracts**
-- 🔥 Building scalable web applications with **MERN Stack**
+- 🔥 Building scalable web applications with **MERN Stack & Blockchain Technology**
 - 📚 Learning **DevOps** and **Cloud Architecture**
 
 ---
